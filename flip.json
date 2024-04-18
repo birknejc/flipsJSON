@@ -1,0 +1,22 @@
+{
+    "flips": [
+        {
+            "name": "Cork7",
+            "lrn_hrs": 15,
+            "start_dt": "2024-04-03",
+            "information": "Cork7 - off axis full... essentially"
+        },
+        {
+            "name": "B-twist Shuriken Hyper",
+            "lrn_hrs": 20,
+            "start_dt": "2024-04-08",
+            "information": "B-twist with a straight leg followed by a hook"
+        },
+        {
+            "name": "Aerial semi",
+            "lrn_hrs": 8,
+            "start_dt": "2024-04-05",
+            "information": "Aerial off axis"
+        }
+    ]
+}
